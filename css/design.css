@@ -1,0 +1,40 @@
+body {
+  background-color:  #ACC4E6;
+  padding: 40px;
+  left: 0;
+  text-align: left;
+}
+
+/* A stylesheet for the Portfolio web page */
+
+* {
+  font-family: Georgia;
+}
+
+h1 {
+  color: black;
+  font-family: 'Ruda', sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+h2 {
+  color: black;
+  font-family: 'Catamaran', sans-serif;
+  margin: 0;
+  text-align: left;
+  font-size: 16px;
+}
+
+h4 {
+  color: green;
+  font-family: 'Ruda', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  position: relative;
+  text-align: left;
+  
+}
+
